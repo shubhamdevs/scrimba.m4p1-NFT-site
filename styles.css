@@ -7,6 +7,7 @@ body {
 }
 
 /* Typography */
+
 h1, h3 {
     margin: 0;
 }
@@ -28,6 +29,8 @@ h3 {
 p {
     line-height: 23px;
 }
+
+/* links */
 
 a {
     color: #ef5839;
